@@ -1,6 +1,6 @@
 
 
-## Hi I am Satya! 
+## Hi, I am Satya! 
 I am currently CTO at [WayLit](https://www.waylit.com/). This is my personal profile where I contribute to open-source software and have a few odd-ball projects
 
 - My personal [blog](https://snmishra.wordpress.com/)
